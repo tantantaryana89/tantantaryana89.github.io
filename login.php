@@ -96,7 +96,7 @@ header("location:index.php?page=home");
 
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-  <div class="footer">@Assembling2023</div>
+  <div class="footer"><h8><i>@Assembling2023</i></h8></div>
 </body>
 <script>
 	$('#login-form').submit(function(e){
